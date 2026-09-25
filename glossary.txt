@@ -1,0 +1,741 @@
+# ============================================================
+# GFL2 MASTER GLOSSARY (CN -> EN)
+# File này dùng cho Auto-translate. Metadata ở glossary_meta.json
+# ============================================================
+
+# --- CREATURES & ENEMIES ---
+冠鼹 -> Crysmole
+噩兆 -> Mishap
+壁瘤棘虫 -> Tumorhynchus
+尖喙铁兽 -> Beak Beasteel
+峭岩愚钝者 -> Crag Tosk
+巨腹猎蚤 -> Bellflea
+徒从 -> Unitas
+攻袭泰坦 -> Attack Titan / Storm Titan
+曜石兔 -> Obshare
+涅托 -> Nyto
+狂猎 -> Wildhunt
+獠牙铁兽 -> Tusk Beasteel
+生骸 -> ELID
+纽虫 -> Nemertea
+蛇棘 -> Retorhynchus
+锤岩蟾蜍 -> Thoad
+鳄面马鹿 -> Crocodeer
+
+# --- CHARACTERS ---
+人形OTs-14 -> T-Doll OTs-14
+人形乌尔丽德 -> T-Doll Ullrid
+人形代理人 -> T-Doll Agent
+人形伊格蕾塔 -> T-Doll Igreta
+人形佩莉 -> T-Doll Peri
+人形佩里缇亚 -> T-Doll Peritya
+人形克罗丽科 -> T-Doll Krolik
+人形克莱妲 -> T-Doll Koleda
+人形六分仪 -> T-Doll Sextans
+人形刘易斯 -> T-Doll Lewis
+人形刘莳 -> T-Doll Liushih
+人形可露凯 -> T-Doll Klukai
+人形哈卜茜 -> T-Doll Harpsy
+人形埃芙 -> T-Doll Alva
+人形塞布丽娜 -> T-Doll Sabrina
+人形夏克里 -> T-Doll Sharkry
+人形夏安 -> T-Doll Cheyanne
+人形奇塔 -> T-Doll Cheeta
+人形妮基塔 -> T-Doll Nikketa
+人形威玛西娜 -> T-Doll Voymastina
+人形安朵丝 -> T-Doll Andoris
+人形寇尔芙 -> T-Doll Colphne
+人形寇尔芙·镜刻 -> T-Doll Colphen Gnosis
+人形巴希达 -> T-Doll Balthilde
+人形希丽雅 -> T-Doll Cecilia
+人形幼熙 -> T-Doll Yoohee
+人形托洛洛 -> T-Doll Tololo
+人形春田 -> T-Doll Springfield
+人形朝晖 -> T-Doll Zhaohui
+人形杜莎妮 -> T-Doll Dushevnaya
+人形桑朵莱希 -> T-Doll Centaureissi
+人形樱花 -> T-Doll Sakura
+人形比悠卡 -> T-Doll Belka
+人形波波沙 -> T-Doll Papasha
+人形洛塔 -> T-Doll Lotta
+人形洛贝拉 -> T-Doll Robella
+人形海伦 -> T-Doll Helen
+人形玛绮朵 -> T-Doll Makiatto
+人形琳德 -> T-Doll Lind
+人形琼玖 -> T-Doll Qiongjiu
+人形秋桦 -> T-Doll Qiuhua
+人形科谢尼娅 -> T-Doll Ksenia
+人形米什缇 -> T-Doll Mechty
+人形米蒂尔 -> T-Doll Mityl
+人形索普 -> T-Doll Soppo
+人形索米 -> T-Doll Suomi
+人形纳甘 -> T-Doll Nagant
+人形纳美西丝 -> T-Doll Nemesis
+人形纳美西丝·衍光 -> T-Doll Nemesis Gnosis
+人形绛雨 -> T-Doll Jiangyu
+人形绯 -> T-Doll Faye
+人形维克托 -> T-Doll Vector
+人形维尔德 -> T-Doll Welrod
+人形维普蕾 -> T-Doll Vepley
+人形罗蕾莱 -> T-Doll Loreley
+人形翡图萨 -> T-Doll Phaetusa
+人形芙洛伦 -> T-Doll Florence
+人形芙铃 -> T-Doll Faelynn
+人形莉塔拉 -> T-Doll Littara
+人形莫辛纳甘 -> T-Doll Mosin-Nagant
+人形莱妮 -> T-Doll Lainie
+人形莱娅 -> T-Doll Leva
+人形莱娜 -> T-Doll Lenna
+人形贝丝蒂 -> T-Doll Basti
+人形闪电 -> T-Doll Groza
+人形阿斯缇亚 -> T-Doll Asteria
+人形黛烟 -> T-Doll Daiyan
+佩切涅格 -> Pecheneg
+克罗丽科 -> Krolik
+六分仪小姐 -> Miss Sextans
+可露凯姐姐 -> Big Sis
+安朵斯 -> Andoris
+春田 -> Springfield
+洛贝拉 -> Robella
+海伦娜 -> Helena
+科德韦尔 -> Caldwell
+科谢妮亚 -> Ksenia
+米什提 -> Mechty
+蓝雪球 -> Blusphere
+
+# --- CONCEPT ---
+人形 -> Doll
+战术人形 -> T-Doll
+
+# --- DOLL ---
+寇尔芙·镜刻 -> Colphne Doppelganger
+蔻尔芙·镜刻 -> Colphne Doppelganger
+
+# --- FACTIONS ---
+吉拉尔 -> Girard
+国家安全局 -> Bureau of State Security
+帕拉蒂斯 -> Paradeus
+法本集团 -> FABN Group
+罗克萨特主义合众国联盟 -> URNC
+罗联 -> URNC
+铁血工造 -> Sangvis Ferri
+霜降 -> Frostfall
+
+# --- HONORIFIC ---
+主人 -> Master
+副官 -> Adjutant
+阁下 -> Your Excellency
+
+# --- ITEMS & MEDIA ---
+“佐拉” -> Zora
+“快捷”修车行 -> Speedy Auto Repair
+《文明及其缺憾》 -> Civilization and Its Discontents
+《最终妄想》 -> Ultimate Illusion
+《梦中舞步》 -> Dance in Dreams
+《正义守护小队》 -> Justice Legends
+《生骸饭》 -> Delicious in Contamination Zone
+前辈 -> Senior/Seonbae
+剧团成员 -> Troupe Member
+勘测部队联络员 -> Survey Team Communications Officer
+可靠的士兵 -> Dependable Soldier
+姐姐 -> Big Sis
+小个子 -> Shorty
+小孩 -> Child
+小张 -> Zhang
+居住点负责人 -> Settlement Chief
+年轻的演员 -> Young Performer
+店长 -> Manager
+惊慌的可疑男子 -> Panicked Suspicious Man
+愤怒的可疑男子 -> Angry Suspicious Man
+指挥官 -> Commander
+散漫的青年 -> Laid-back Youth
+暴躁的青年 -> Ill-Tempered Youth
+杨 -> Yang
+母亲 -> Mother
+灯笼女 -> Lantern Girl
+爆炸 -> Explosion
+猫耳 -> Miss Kitty Ears
+白毛 -> Pinky
+矮个男子 -> Short Man
+研究人员A/C -> Researcher A/C
+老大 -> Boss
+诧异的士兵 -> Astonished Soldier
+金毛 -> Blondie
+队长 -> Leader/Captain
+陈 -> Chen
+黑色人形 -> Doll in black
+
+# --- LOCATIONS ---
+2号区域 -> Area 2
+W12区 -> District W12
+二级平层 -> Level II
+亚霍德纳盐矿 -> Jahodna Salt Mine
+人形社区 -> Doll Community
+伊利昂 -> Ilion
+净化区 -> Purification Zone
+卡尔洛斯汽修厂 -> Carlos Auto Repair Shop
+哨崖镇 -> Cliffwatch
+外围战场 -> Peripheral Battlefield
+奥德卅 -> Odesa
+威斯特港 -> Port Vest
+希岸 -> Nirvana
+帕拉达嘉 -> Pradaja / Paradajz
+庇护区 -> Shelter
+异维探渊 -> Xenomension Abyss
+新苏联 -> Neo-Soviet Union
+新赫罗纳 -> Nueva Gerona
+硅砂港 -> Mica Port
+空洞城市 -> Hollow City
+米尔诺霍街道 -> Milnuho Street
+红区 -> Red Zone
+绿区 -> Green Zone
+重启基站 -> Reactivation Station
+长城列车 -> Great Wall Railway
+黄区 -> Yellow Zone
+黑区 -> Black Zone
+
+# --- LOCATIONS ---
+希岸空间 -> Nirvana space
+
+# --- LORE / ENTITY ---
+星渊 -> Ateraxis
+
+# --- LORE / TECH ---
+塌陷液 -> Collapse Fluid
+塌陷辐射 -> Collapse Radiation
+心智云图 -> Neural Cloud
+烙印系统 -> Imprint System
+
+# --- MECHANICS & TERMS ---
+临界自损 -> Redline Damage
+乔扎 -> Graurizard
+二次伤害 -> Secondary Damage
+云辉定仪 -> Celestial Grace
+伊利昂之围 -> Iliad
+伸冤者印记 -> Mark of Vengeance
+位键 -> Key
+低温损伤 -> Cryogenic Damage
+元素克制 -> Elemental weakness exploitation
+共键 -> Common Key
+兵蚁 -> Dinergate
+冷凝 -> Freeze
+冷凝伤害 -> Freeze damage
+击退 -> Knockback
+击退时伤害 -> Damage on Knockback
+压制伤害 -> Suppression Damage
+压制强度 -> Suppression Strength
+哈希叶 -> Merkele Leave
+回潮 -> Backwash
+固定伤害 -> Fixed damage
+固键 -> Fixed Key
+坍塌昙花 -> Collapse Epiphyllum
+坍塌晶条 -> Collapse Piece
+坍塌辐射 -> Collapse radiation
+复合输出 -> Mixed Damage
+大回合 -> Round
+失态 -> Stability Lost
+失血 -> Bleed
+定时炸弹伤害 -> Timed Bomb Damage
+导染指数 -> Confectance Index
+导染类伤害 -> Confectance damage
+尖兵人形 -> Vanguard-class Doll
+异位 -> Phase
+异位属性类减益 -> Phase debuff
+异位弱点 -> Phase weakness
+强固姿态 -> Fortified Stance
+心智 -> Neural cloud
+心智模块 -> Neural module
+心智螺旋 -> Neural Helix
+心智链接 -> Neural link
+惊喜奇趣球 -> Mystery Fun Ball
+护盾 -> Shield
+拓界征途 -> Frontier Conquest
+拟态图谱 -> Remolding Pattern
+持续伤害 -> Continuous Damage
+损害控制 -> Damage Control
+掩护 -> Shelter
+插件组合效果 -> Plugin set effect
+擦伤减免 -> Scratch Damage Deduction
+支援人形 -> Support-class Doll
+支援攻击 -> Support Attack
+断罪者 -> Sinbreaker
+方糖 -> Zucchero / Sugar Cube
+方糖咖啡馆 -> Zucchero Café
+无定星迹 -> Wandering Star Trail
+无效行动 -> Ineffectual action
+易伤 -> Vulnerable
+星图演绎 -> Galaxy Interpretation
+正电荷 -> Cation
+武装印记 -> Arma Inscripta
+泡泡水弹 -> Bubble Bomb
+泳池对决 -> Pool Showdown
+浊刻 -> Hydro
+浊刻之愈 -> Hydro Mending
+浊刻伤害 -> Hydro damage
+浊刻增益 -> Hydro Buff
+火控校准芯片 -> Targeting Calibration Chip
+烟寻异处 -> Smoke Seeking
+热情共鸣 -> Passionate Resonance
+热能传导 -> Heat Transfer
+焦痕 -> Scorch Mark
+燃烧伤害 -> Burn damage
+燃烧增益 -> Burn Buff
+燃烧类减益 -> Burn debuff
+物理伤害 -> Physical damage
+珀伽索 -> Pegasus
+电导 -> Electric
+电柱出生伤害 -> Power Pole Spawn Damage
+电路过载 -> Circuit Overload
+破障回旋 -> Ruinous Whirl
+移动力 -> Mobility
+稳态崩溃 -> Stability Break
+稳态指数 -> Stability Index
+约束器 -> Restrictor
+绝不认输 -> Never Give Up
+美味盛宴 -> Delicious Feast
+翳影 -> Shadow
+艾莫号 -> The Elmo
+艾莫易购 -> Elmo Mart
+若造成击杀 -> If a target is eliminated
+负电荷 -> Anion
+货车前辈 -> Truck-Senpai
+超频拟练 -> Overclock Simulation
+跃键 -> Expansion Key
+轻盈回旋 -> Graceful Pirouette
+迅捷韬略 -> Expeditious Gambit
+返程休整 -> Retreat for healing
+远航巡录 -> Voyage Logs
+迭代回廊 -> Liminal Iteration
+逆熵伤害 -> Reverse-Entropy Damage
+酸蚀类减益 -> Corrosion debuff
+铁壁圣盾·冷凝 -> Aegis Bulwark - FRZ
+铭契之环 -> Covenant Ring
+防卫人形 -> Bulwark-class Doll
+防御类减益 -> Defense debuff
+隐罪者 -> The Sinner
+静谧暗河 -> Serene Dark River
+黎明战役 -> Dawn of Battle
+
+# --- NPC ---
+柯尼 -> Kenny
+欧菲露妮 -> Ophelune
+欧菲露妮小姐 -> Miss Ophelune
+沈美玲 -> Mayling Shen
+
+# --- ORGANIZATIONS ---
+404小队 -> Squad 404 / H.I.D.E. 404
+ATK -> ATK
+B.R.I.E.F. -> B.R.I.E.F.
+“格隆”歌舞团 -> Grom Troupe
+“火花” -> Sparkle Squad
+光谱 -> Spectrum
+南极联邦 -> Antarctic Union
+吉拉尔集团 -> Girard Group
+国安局 -> Statesec
+塞卡科技 -> Sycca Technologies
+奥尔劳格财团 -> Orlog Financial Conglomerate
+季风乐队 -> Monsoon Squad / Monsoon
+暗商 -> Underground Brokers
+曼尼安保 -> Mangi Security
+格里芬 -> Griffin & Kryuger
+武装小组 -> Heavy Weapons Team
+潮流 -> Fabric
+火神重工 -> Svarog Heavy Industries
+熔断器 -> Interrupter
+瓦良格帮 -> Varjagers
+绿色天空 -> Green Sky
+缄默小队 -> Silence Squad
+翱翔者 -> Falconer
+艾翁共助会 -> Aion Mutual Aid Society
+赛诺菲与法本集团 -> Cecht FABN
+迪斯科 -> Limonad
+铁血 -> Sangvis Ferri
+长城列车轨道军 -> Great Wall Railway Defense Forces
+陶瓷 -> Porcelain
+霜降小队 -> Frostfall Squad
+非军事力量管理局 -> Non-Military Forces Administration / NOMFA
+
+# --- OUTFIT ---
+夏日投手 -> Summer Pitcher
+睡醒的人鱼 -> Stirring Mermaid
+绀星绮愿 -> Indigo Oath
+蔚蓝轨迹 -> Cerulean Breaker
+赛场火花 -> Sparks On The Circuit
+跃行脱兔 -> Prancing Bunny
+速度之星 -> Speed Star
+闪耀心愿 -> Sparkling Wish
+
+# --- PLAYABLE CHARACTERS ---
+97式 -> Type 97
+AK-阿尔法 -> AK-Alfa
+AS Val -> AS Val
+CZ75 -> CZ75
+G11 -> G11
+G28 -> G28
+G36K-KSK -> G36K-KSK
+GSP-337 -> GSP-337
+HK416 -> HK416
+KSVK -> KSVK
+M590 -> M590
+M82 -> M82
+MP7 -> MP7
+OTs-12 -> OTs-12
+P90 -> P90
+PzB39 -> PzB39
+QBZ-191 -> QBZ-191
+RO635 -> RO635
+SV-98 -> SV-98
+SVD -> SVD
+TMP -> TMP
+UMP40 -> UMP40
+UMP45 -> UMP45
+UMP9 -> UMP9
+三彩 -> Sancai
+丹尼尔·特罗杨诺斯 -> Daniel Troyanos
+丹德莱 -> Dandelion
+丽娜 -> Rina
+丽贝卡 -> Rebecca
+乌尔丽德 -> Ullrid
+乌琪 -> Ruchey
+乔治 -> George
+亚历克 -> Alec
+亚历山大·索科洛夫 -> Alexander Sokolov
+亨利 -> Henry
+代理人 -> Agent
+伊万 -> Ivan
+伊凡 -> Ivan
+伊夫 -> Yves
+伊夫琳 -> Evelyn
+伊斯雷 -> Easley
+伊格蕾塔 -> Eagletta
+伊涅萨 -> Inesa
+伊莎 -> Isha
+伊莎贝尔 -> Isabel
+伊菲 -> Iphi
+伊默尔 -> Immore
+伊齐基尔 -> Ezekiel
+伍德 -> Wood
+伯介姆 -> Boojum
+伯纳尔 -> Bernal
+伯纳德 -> Bernard
+佛尔卡什 -> Farkas
+佩妮泽 -> Poludnitsa
+佩莉 -> Peri
+佩里缇亚 -> Peritya
+克拉丽莎 -> Clarissa
+克拉拉 -> Klara
+克拉索 -> Krassov
+克罗耶尔 -> Kroyer
+克莱 -> Clay
+克莱妲 -> Koleda
+克莱尔 -> Claire
+克里斯托弗·莱克 -> Christopher Lake
+克里斯蒂安·伍德 -> Christian Wood
+克鲁格先生 -> Mr. Kryuger
+六分仪 -> Sextans
+兰妮 -> Melanie
+兰汀 -> Lentine
+兰珀蒂娅 -> Lambertia
+凯伦 -> Karen
+凯特 -> Kate
+凯西米尔 -> Cashmere
+切利娅 -> Cheria
+切尔茜 -> Chelsea
+列夫 -> Lev
+刘易斯 -> Lewis
+刘莳 -> Liushih
+加伊那 -> Caina
+加莉娜 -> Galina
+卡修斯 -> Cassius
+卡尔 -> Karl
+卡尔文 -> Calvin
+卡尔洛斯 -> Carlos
+卡特琳 -> Katerin Miller / Katrin
+卡莱尔 -> Carlisle
+卡萝 -> Kuro
+卡蜜拉 -> Carmilla
+卡诺 -> Kanu
+卢卡 -> Luka
+厄舍上尉 -> Captain Ussery
+可露凯 -> Klukai
+吉塞拉 -> Gisela
+哈卜茜 -> Harpsy
+嘉利 / 卡丽 -> Carrie / Kerrie
+埃尔赫 -> Earhart
+埃芙 -> Alva
+塔伦 -> Tarhun
+塔菲塔 -> Taffeta
+塞布丽娜 -> Sabrina
+塞缪尔 -> Samuel
+夏克里 -> Sharkry
+夏安 -> Cheyanne
+夏朵利兹 -> Shadowless
+夏洛特 -> Charlotte
+多萝西 -> Dorothy
+多萝西娅 -> Dorothea
+奇塔 -> Cheeta
+奇洛薇格 -> Chiloveig
+奈乐 -> Nele
+奎恩 -> Quinn
+奥古斯丁 -> Augustine
+奥古斯塔斯 -> Augustus
+奥尔菲娅 -> Orphia
+妮基塔 -> Nikketa
+妮娅 -> Nia
+妮特 -> Niter
+威廉 -> William
+威廉明娜 -> Wilhelmina
+威玛西娜 -> Voymastina
+安吉莉 -> Anjelie
+安朵丝 -> Andoris
+寇尔芙 -> Colphne
+小黑 -> Nyxie
+尤里 -> Yuri
+尼克 -> Nick
+尼古拉 -> Nikolai
+尼可夫 -> Nikolov
+尼科尔 -> Nicole
+巴塞洛缪 -> Bartholomew
+巴希达 -> Balthilde
+巴特 -> Bart
+巴维尔 -> Pavel
+巴赫玛洛 -> Bahmaro
+巴鲁克 -> Baruch
+布瑟尔 -> Berserl
+布莱恩·赫伯特 -> Brian Herbert
+希丽雅 -> Cecilia
+希娅 -> Theia
+希尔 -> Sier
+希芙 -> Chiffon
+帕维尔 -> Pavel
+帕那刻亚 -> Panakeia
+干扰者 -> Intruder
+幼熙 -> Yoohee
+库利奇 -> Kulich
+弗兰克 -> Frank
+弗拉基米尔 -> Vladimir
+弗朗西斯 -> Frances
+弗林 / 芙琳 -> Flynn / Flinn
+弗雷德 -> Fred
+彼得 -> Peter
+德尔 -> Dier
+德米特里 -> Dmitry
+托卡 -> Toka
+托卡列夫 -> Tokarev
+托洛洛 -> Tololo
+拉斯洛·纳道希 -> Laszlo Nadausi
+提万 -> Tiwan
+斯奈贝尔 -> Sneibel
+斯捷奇金 -> Stechkin
+斯派克 -> Spike
+斯潘塞 / 斯宾塞 -> Spencer
+斯特凡·默纳克 -> Stefan Monak / Murnach
+斯隆 -> Sloan
+施特劳斯 -> Strauss
+星寰 -> Xinghuan
+普林斯勒 -> Prinsler
+朗尼 -> Lonnie
+朝晖 -> Zhaohui
+朱丽叶 -> Juliet
+朱利叶斯 -> Julius
+李·恩菲尔德 -> Lee-Enfield
+杜莎妮 -> Dushevnaya
+杰克森·克拉克 -> Jackson Clark
+杰罗曼 / 杰罗姆 -> Jeromain / Jerome
+杰里 -> Jerry
+林恩 -> Lenny / Lynn
+林榆 -> Lilia
+柏德温 -> Berdwin / Baldwin
+查尔斯 -> Charles
+格伦·卢米 -> Glenn Lumi
+格尔曼·约安奥维奇·沃科夫 -> Germain Yoanovich Volkov
+格琳 / 格琳娜 -> Kalin / Kalina
+格里戈里·奥尔洛夫 -> Grigory Orlov
+桑朵莱希 -> Centaureissi
+梅兰妮 -> Melanie
+梅德 -> Mede
+梅德奎因 -> Mede Quinn
+梅瑞狄斯 -> Meredeith
+梦想家 -> Dreamer
+樱花 -> Sakura
+欧文 -> Owen
+比尔森·威尔 -> Milson Will
+比悠卡 -> Belka
+水仙花 -> Narcissus
+汉娜·舒尔茨 -> Hannah Schultz
+汉斯 -> Hans
+沃尔芬 -> Wolfin / Wolfiin
+法图麦 -> Fatima
+法斯特 -> Faust
+波波沙 -> Papasha
+泰莉莎 -> Terysha
+洛克菲 -> Roche
+洛可西斯 -> Lachesis
+洛塔 -> Lotta
+洛林 -> Larion / Lorraine
+海伦 -> Helen
+海泽尔 -> Haizel
+海琳 -> Marina
+海莉 -> Hailey
+清道夫 -> Sweeper
+温斯特 -> Wernst
+特拉尔 -> Tral
+玛丽亚 -> Maria
+玛乔里 / 马杰里 -> Marjorie / Margery
+玛琳娜 -> Marina
+玛绮朵 -> Makiatto
+珂狄赛普 -> Cordyceps
+理查 -> Richard
+琳德 -> Lind
+琼玖 -> Qiongjiu
+瓦利亚 -> Valya
+瓦西尔 -> Vasily
+白怀德 -> Dr. White
+白烨戈 -> Beluga
+白瓷 -> Blanc
+盖娅 -> Gaia
+知穗 -> Zhisui
+破坏者 -> Destroyer
+福克斯 -> Fox / Fuchs
+秋桦 -> Qiuhua
+科勒林 -> Koehler
+科林 -> Colin
+科西莫主厨 -> Chef Cosimo
+科谢尼娅 -> Ksenia
+秦紫翼 -> Qin ZiYi
+简 -> Jane
+米什缇 -> Mechty
+米卡 -> Mika
+米娅 -> Mia
+米歇尔·默纳 -> Michelle Monna
+米蒂尔 -> Mityl
+索普 -> Soppo
+索米 -> Suomi
+索菲娅 -> Sophia
+约翰 -> John
+约翰尼 -> Johnny
+纳甘 -> Nagant
+纳美西丝 -> Nemesis
+纳迪娅 -> Nadiya
+绛雨 -> Jiangyu
+绯 -> Faye
+维克托 -> Vector
+维勒斯·费恩 -> Willers Finn
+维尔德 -> Welrod
+维尼亚夫斯基 -> Wieniawski
+维拉 -> Viola
+维普蕾 -> Vepley
+维特 -> Vite
+罗伯特 -> Robert
+罗兰 -> Roland
+罗吉尔 / 罗杰 -> Roger
+罗德里克·麦克法夸尔 -> Roderick MacFarquhar
+罗德里格 -> Rodrigo
+罗斯 -> Ross
+罗莎琳 -> Rosalind
+罗蕾莱 -> Loreley
+罗贝拉 -> Robella
+罗贝蒂 -> Roberti
+美玲 -> Mayling
+翡图萨 -> Phaetusa
+肯尼 -> Kenny
+胡安·比维斯 -> Juan Bevis / Bévès
+舒尔德 -> Shuld
+芙洛伦 -> Florence
+芙铃 -> Faelynn
+芳音 -> Fangyin / Madam Faina
+苏维 -> Suvi
+范妮 -> Fanny
+茉莉 -> Molly
+茧 -> Cocoon
+莉丝 -> Rise
+莉塔拉 -> Littara
+莉迪亚 -> Lydia
+莫辛纳甘 -> Mosin-Nagant
+莱利 -> Riley
+莱妮 -> Lainie
+莱娅 -> Leva
+莱娜 -> Lenna
+莱布妮丝 -> Leibnys
+莱恩 -> Ryan
+莱曼 -> Lyman
+莱菲娅 -> Lefiya
+菲奥多 -> Fiodo / Fyodor
+萝拉 -> Laura
+萨利 -> Sally
+萨德 -> Sade
+萨沙 -> Sasha
+萨珈 -> Saga
+葛洛丽娅 -> Gloria
+蓝闪蝶 -> Blue Morpho
+蕾切尔 -> Rachel
+薇奥拉 -> Viola
+薇薇安 -> Vivian
+薮春 -> Souchun
+裘德 -> Jude
+西奥 -> Theo
+西特罗 -> Citro
+詹姆斯 -> James
+诺亚 -> Noah
+诺厄 -> Noah
+诺埃尔 -> Noel
+贝丝蒂 -> Basti
+贝丽丝 -> Bellis
+贝尼托 -> Benito
+贝拉 -> Bella
+贝欧尼斯 -> Belness
+贝蒂 -> Betty
+贝蒂斯 -> Betis
+贾科莫 -> Giacomo
+赫丽安 -> Helian
+赫利 -> Heli
+赫瑞尤 -> Crifium
+赫瑞格 -> Herrick
+赫蒂 -> Hedy
+辛普森 -> Simpson
+迪克 -> Dick
+迪马 -> Dima
+迭戈 -> Diego
+金斯利 -> Kingsley
+针 -> Igla
+铂利尔 -> Beryl
+闪电 -> Groza
+阿丽丝 -> Allessi
+阿列克谢·奥尔洛夫 -> Alexei Orlov
+阿列霞 -> Olesya
+阿加莎 -> Agatha
+阿历克塞 -> Alexey
+阿历克斯 -> Alex
+阿巴贡 -> Harpagon
+阿斯缇亚 -> Asteria
+阿瑟 -> Arthur
+阿米达 -> Amida
+阿诺德 -> Arnold
+阿道夫 -> Adolf
+雅各布 -> Jakub
+雷纳德·威尔逊 -> Leonard Wilson
+霍尔通 -> Holtom
+露尼西亚 -> Lunasia
+露朵 -> Ludo
+露西亚 -> Lucia
+青瓷 -> Celadon
+马斯克 -> Musk
+马歇尔 -> Marshall
+马蒂尔 -> Marty
+马里恩 -> Marian
+麦克 -> Michael
+黑山雄鹰 -> Blackmountain
+黑眼 -> Darture
+黛拉 -> Della
+黛烟 -> Daiyan
+
+# --- PROJECTS ---
+乐园计划 -> Project Eden
+冕洞计划 -> Project Coronal Hole
+恒星风计划 -> Project Nebula Wind
+摇篮曲计划 -> Lullaby Project
+泊维西计划 -> Powehi Plan
+霍洛戈计划 -> Horoscope Program
+
+# --- VEHICLES & BASE ---
+艾莫 -> Elmo

@@ -1,0 +1,4911 @@
+{
+  "entries": [
+    {
+      "cn": "冠鼹",
+      "en": "Crysmole",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "噩兆",
+      "en": "Mishap",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "壁瘤棘虫",
+      "en": "Tumorhynchus",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "尖喙铁兽",
+      "en": "Beak Beasteel",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "峭岩愚钝者",
+      "en": "Crag Tosk",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "巨腹猎蚤",
+      "en": "Bellflea",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "徒从",
+      "en": "Unitas",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "攻袭泰坦",
+      "en": "Attack Titan / Storm Titan",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "曜石兔",
+      "en": "Obshare",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "涅托",
+      "en": "Nyto",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "狂猎",
+      "en": "Wildhunt",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "獠牙铁兽",
+      "en": "Tusk Beasteel",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "生骸",
+      "en": "ELID",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "纽虫",
+      "en": "Nemertea",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "蛇棘",
+      "en": "Retorhynchus",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "锤岩蟾蜍",
+      "en": "Thoad",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "鳄面马鹿",
+      "en": "Crocodeer",
+      "banned": "",
+      "type": "CREATURES & ENEMIES",
+      "context": "Any"
+    },
+    {
+      "cn": "人形OTs-14",
+      "en": "T-Doll OTs-14",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形乌尔丽德",
+      "en": "T-Doll Ullrid",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形代理人",
+      "en": "T-Doll Agent",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形伊格蕾塔",
+      "en": "T-Doll Igreta",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形佩莉",
+      "en": "T-Doll Peri",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形佩里缇亚",
+      "en": "T-Doll Peritya",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形克罗丽科",
+      "en": "T-Doll Krolik",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形克莱妲",
+      "en": "T-Doll Koleda",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形六分仪",
+      "en": "T-Doll Sextans",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形刘易斯",
+      "en": "T-Doll Lewis",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形刘莳",
+      "en": "T-Doll Liushih",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形可露凯",
+      "en": "T-Doll Klukai",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形哈卜茜",
+      "en": "T-Doll Harpsy",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形埃芙",
+      "en": "T-Doll Alva",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形塞布丽娜",
+      "en": "T-Doll Sabrina",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形夏克里",
+      "en": "T-Doll Sharkry",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形夏安",
+      "en": "T-Doll Cheyanne",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形奇塔",
+      "en": "T-Doll Cheeta",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形妮基塔",
+      "en": "T-Doll Nikketa",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形威玛西娜",
+      "en": "T-Doll Voymastina",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形安朵丝",
+      "en": "T-Doll Andoris",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形寇尔芙",
+      "en": "T-Doll Colphne",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形寇尔芙·镜刻",
+      "en": "T-Doll Colphen Gnosis",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形巴希达",
+      "en": "T-Doll Balthilde",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形希丽雅",
+      "en": "T-Doll Cecilia",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形幼熙",
+      "en": "T-Doll Yoohee",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形托洛洛",
+      "en": "T-Doll Tololo",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形春田",
+      "en": "T-Doll Springfield",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形朝晖",
+      "en": "T-Doll Zhaohui",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形杜莎妮",
+      "en": "T-Doll Dushevnaya",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形桑朵莱希",
+      "en": "T-Doll Centaureissi",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形樱花",
+      "en": "T-Doll Sakura",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形比悠卡",
+      "en": "T-Doll Belka",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形波波沙",
+      "en": "T-Doll Papasha",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形洛塔",
+      "en": "T-Doll Lotta",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形洛贝拉",
+      "en": "T-Doll Robella",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形海伦",
+      "en": "T-Doll Helen",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形玛绮朵",
+      "en": "T-Doll Makiatto",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形琳德",
+      "en": "T-Doll Lind",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形琼玖",
+      "en": "T-Doll Qiongjiu",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形秋桦",
+      "en": "T-Doll Qiuhua",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形科谢尼娅",
+      "en": "T-Doll Ksenia",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形米什缇",
+      "en": "T-Doll Mechty",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形米蒂尔",
+      "en": "T-Doll Mityl",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形索普",
+      "en": "T-Doll Soppo",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形索米",
+      "en": "T-Doll Suomi",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形纳甘",
+      "en": "T-Doll Nagant",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形纳美西丝",
+      "en": "T-Doll Nemesis",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形纳美西丝·衍光",
+      "en": "T-Doll Nemesis Gnosis",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形绛雨",
+      "en": "T-Doll Jiangyu",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形绯",
+      "en": "T-Doll Faye",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形维克托",
+      "en": "T-Doll Vector",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形维尔德",
+      "en": "T-Doll Welrod",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形维普蕾",
+      "en": "T-Doll Vepley",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形罗蕾莱",
+      "en": "T-Doll Loreley",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形翡图萨",
+      "en": "T-Doll Phaetusa",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形芙洛伦",
+      "en": "T-Doll Florence",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形芙铃",
+      "en": "T-Doll Faelynn",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形莉塔拉",
+      "en": "T-Doll Littara",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形莫辛纳甘",
+      "en": "T-Doll Mosin-Nagant",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形莱妮",
+      "en": "T-Doll Lainie",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形莱娅",
+      "en": "T-Doll Leva",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形莱娜",
+      "en": "T-Doll Lenna",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形贝丝蒂",
+      "en": "T-Doll Basti",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形闪电",
+      "en": "T-Doll Groza",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形阿斯缇亚",
+      "en": "T-Doll Asteria",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形黛烟",
+      "en": "T-Doll Daiyan",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "佩切涅格",
+      "en": "Pecheneg",
+      "banned": "Pechenegi",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "克罗丽科",
+      "en": "Krolik",
+      "banned": "Cloriko",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "六分仪小姐",
+      "en": "Miss Sextans",
+      "banned": "Miss Sextant",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "可露凯姐姐",
+      "en": "Big Sis",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "安朵斯",
+      "en": "Andoris",
+      "banned": "Andos",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "春田",
+      "en": "Springfield",
+      "banned": "Chuntian",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "洛贝拉",
+      "en": "Robella",
+      "banned": "Luobela",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "海伦娜",
+      "en": "Helena",
+      "banned": "Helene",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "科德韦尔",
+      "en": "Caldwell",
+      "banned": "Coldwell",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "科谢妮亚",
+      "en": "Ksenia",
+      "banned": "",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "米什提",
+      "en": "Mechty",
+      "banned": "Mishti",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "蓝雪球",
+      "en": "Blusphere",
+      "banned": "Snowball",
+      "type": "Characters",
+      "context": "Any"
+    },
+    {
+      "cn": "人形",
+      "en": "Doll",
+      "banned": "Android, Humanoid, Puppet, Robot",
+      "type": "Concept",
+      "context": "Any"
+    },
+    {
+      "cn": "战术人形",
+      "en": "T-Doll",
+      "banned": "Tactical Android, Tactical Humanoid, Combat Doll, Tactical Puppet",
+      "type": "Concept",
+      "context": "Any"
+    },
+    {
+      "cn": "寇尔芙·镜刻",
+      "en": "Colphne Doppelganger",
+      "banned": "Corfu Mirror-Carver, Colf·Mirror Carving, Colphne - Mirrorcarver, Colphne - Speculum, Colphne: Speculum, Colphne: Mirrorprint",
+      "type": "Doll",
+      "context": "Any"
+    },
+    {
+      "cn": "蔻尔芙·镜刻",
+      "en": "Colphne Doppelganger",
+      "banned": "Corfu Mirror-Carver, Colf·Mirror Carving, Colphne - Mirrorcarver, Colphne - Speculum, Colphne: Speculum, Colphne: Mirrorprint",
+      "type": "Doll",
+      "context": "Any"
+    },
+    {
+      "cn": "吉拉尔",
+      "en": "Girard",
+      "banned": "Gilard",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "国家安全局",
+      "en": "Bureau of State Security",
+      "banned": "",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "帕拉蒂斯",
+      "en": "Paradeus",
+      "banned": "Paradis",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "法本集团",
+      "en": "FABN Group",
+      "banned": "Faben Group, Farben Group, Faben group, Farben group",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "罗克萨特主义合众国联盟",
+      "en": "URNC",
+      "banned": "Rossartrist Union",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "罗联",
+      "en": "URNC",
+      "banned": "the Union, the Union of Rossartrist Nations Coalition",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "铁血工造",
+      "en": "Sangvis Ferri",
+      "banned": "Iron Blood Manufacturing, Iron Blood Industry, Iron Blood",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "霜降",
+      "en": "Frostfall",
+      "banned": "Frost",
+      "type": "Factions",
+      "context": "Any"
+    },
+    {
+      "cn": "主人",
+      "en": "Master",
+      "banned": "Owner, Host",
+      "type": "Honorific",
+      "context": "Any"
+    },
+    {
+      "cn": "副官",
+      "en": "Adjutant",
+      "banned": "Lieutenant",
+      "type": "Honorific",
+      "context": "Any"
+    },
+    {
+      "cn": "阁下",
+      "en": "Your Excellency",
+      "banned": "sir, Sir, Milord",
+      "type": "Honorific",
+      "context": "Any"
+    },
+    {
+      "cn": "“佐拉”",
+      "en": "Zora",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "“快捷”修车行",
+      "en": "Speedy Auto Repair",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "《文明及其缺憾》",
+      "en": "Civilization and Its Discontents",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "《最终妄想》",
+      "en": "Ultimate Illusion",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "《梦中舞步》",
+      "en": "Dance in Dreams",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "《正义守护小队》",
+      "en": "Justice Legends",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "《生骸饭》",
+      "en": "Delicious in Contamination Zone",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "前辈",
+      "en": "Senior/Seonbae",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "剧团成员",
+      "en": "Troupe Member",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "勘测部队联络员",
+      "en": "Survey Team Communications Officer",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "可靠的士兵",
+      "en": "Dependable Soldier",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "姐姐",
+      "en": "Big Sis",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "小个子",
+      "en": "Shorty",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "小孩",
+      "en": "Child",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "小张",
+      "en": "Zhang",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "居住点负责人",
+      "en": "Settlement Chief",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "年轻的演员",
+      "en": "Young Performer",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "店长",
+      "en": "Manager",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "惊慌的可疑男子",
+      "en": "Panicked Suspicious Man",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "愤怒的可疑男子",
+      "en": "Angry Suspicious Man",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "指挥官",
+      "en": "Commander",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "散漫的青年",
+      "en": "Laid-back Youth",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "暴躁的青年",
+      "en": "Ill-Tempered Youth",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "杨",
+      "en": "Yang",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "母亲",
+      "en": "Mother",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "灯笼女",
+      "en": "Lantern Girl",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "爆炸",
+      "en": "Explosion",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "猫耳",
+      "en": "Miss Kitty Ears",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "白毛",
+      "en": "Pinky",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "矮个男子",
+      "en": "Short Man",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "研究人员A/C",
+      "en": "Researcher A/C",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "老大",
+      "en": "Boss",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "诧异的士兵",
+      "en": "Astonished Soldier",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "金毛",
+      "en": "Blondie",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "队长",
+      "en": "Leader/Captain",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "陈",
+      "en": "Chen",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "黑色人形",
+      "en": "Doll in black",
+      "banned": "",
+      "type": "ITEMS & MEDIA",
+      "context": "Any"
+    },
+    {
+      "cn": "2号区域",
+      "en": "Area 2",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "W12区",
+      "en": "District W12",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "二级平层",
+      "en": "Level II",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "亚霍德纳盐矿",
+      "en": "Jahodna Salt Mine",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "人形社区",
+      "en": "Doll Community",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊利昂",
+      "en": "Ilion",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "净化区",
+      "en": "Purification Zone",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡尔洛斯汽修厂",
+      "en": "Carlos Auto Repair Shop",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "哨崖镇",
+      "en": "Cliffwatch",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "外围战场",
+      "en": "Peripheral Battlefield",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "奥德卅",
+      "en": "Odesa",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "威斯特港",
+      "en": "Port Vest",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "希岸",
+      "en": "Nirvana",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "帕拉达嘉",
+      "en": "Pradaja / Paradajz",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "庇护区",
+      "en": "Shelter",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "异维探渊",
+      "en": "Xenomension Abyss",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "新苏联",
+      "en": "Neo-Soviet Union",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "新赫罗纳",
+      "en": "Nueva Gerona",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "硅砂港",
+      "en": "Mica Port",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "空洞城市",
+      "en": "Hollow City",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "米尔诺霍街道",
+      "en": "Milnuho Street",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "红区",
+      "en": "Red Zone",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "绿区",
+      "en": "Green Zone",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "重启基站",
+      "en": "Reactivation Station",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "长城列车",
+      "en": "Great Wall Railway",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "黄区",
+      "en": "Yellow Zone",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "黑区",
+      "en": "Black Zone",
+      "banned": "",
+      "type": "LOCATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "希岸空间",
+      "en": "Nirvana space",
+      "banned": "Xi'an space, Xian space, Xian Space, Cis-Shore Space",
+      "type": "Locations",
+      "context": "Any"
+    },
+    {
+      "cn": "星渊",
+      "en": "Ateraxis",
+      "banned": "Star Abyss-a, Star Abyss, Astral Abyss",
+      "type": "Lore / Entity",
+      "context": "Any"
+    },
+    {
+      "cn": "塌陷液",
+      "en": "Collapse Fluid",
+      "banned": "Collapse Liquid",
+      "type": "Lore / Tech",
+      "context": "Any"
+    },
+    {
+      "cn": "塌陷辐射",
+      "en": "Collapse Radiation",
+      "banned": "Collapse rays",
+      "type": "Lore / Tech",
+      "context": "Any"
+    },
+    {
+      "cn": "心智云图",
+      "en": "Neural Cloud",
+      "banned": "Mental Cloud",
+      "type": "Lore / Tech",
+      "context": "Any"
+    },
+    {
+      "cn": "烙印系统",
+      "en": "Imprint System",
+      "banned": "Branding System",
+      "type": "Lore / Tech",
+      "context": "Any"
+    },
+    {
+      "cn": "临界自损",
+      "en": "Redline Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "乔扎",
+      "en": "Graurizard",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "二次伤害",
+      "en": "Secondary Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "云辉定仪",
+      "en": "Celestial Grace",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊利昂之围",
+      "en": "Iliad",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "伸冤者印记",
+      "en": "Mark of Vengeance",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "位键",
+      "en": "Key",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "低温损伤",
+      "en": "Cryogenic Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "元素克制",
+      "en": "Elemental weakness exploitation",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "共键",
+      "en": "Common Key",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "兵蚁",
+      "en": "Dinergate",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "冷凝",
+      "en": "Freeze",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "冷凝伤害",
+      "en": "Freeze damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "击退",
+      "en": "Knockback",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "击退时伤害",
+      "en": "Damage on Knockback",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "压制伤害",
+      "en": "Suppression Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "压制强度",
+      "en": "Suppression Strength",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "哈希叶",
+      "en": "Merkele Leave",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "回潮",
+      "en": "Backwash",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "固定伤害",
+      "en": "Fixed damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "固键",
+      "en": "Fixed Key",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "坍塌昙花",
+      "en": "Collapse Epiphyllum",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "坍塌晶条",
+      "en": "Collapse Piece",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "坍塌辐射",
+      "en": "Collapse radiation",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "复合输出",
+      "en": "Mixed Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "大回合",
+      "en": "Round",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "失态",
+      "en": "Stability Lost",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "失血",
+      "en": "Bleed",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "定时炸弹伤害",
+      "en": "Timed Bomb Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "导染指数",
+      "en": "Confectance Index",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "导染类伤害",
+      "en": "Confectance damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "尖兵人形",
+      "en": "Vanguard-class Doll",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "异位",
+      "en": "Phase",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "异位属性类减益",
+      "en": "Phase debuff",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "异位弱点",
+      "en": "Phase weakness",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "强固姿态",
+      "en": "Fortified Stance",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "心智",
+      "en": "Neural cloud",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "心智模块",
+      "en": "Neural module",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "心智螺旋",
+      "en": "Neural Helix",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "心智链接",
+      "en": "Neural link",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "惊喜奇趣球",
+      "en": "Mystery Fun Ball",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "护盾",
+      "en": "Shield",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "拓界征途",
+      "en": "Frontier Conquest",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "拟态图谱",
+      "en": "Remolding Pattern",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "持续伤害",
+      "en": "Continuous Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "损害控制",
+      "en": "Damage Control",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "掩护",
+      "en": "Shelter",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "插件组合效果",
+      "en": "Plugin set effect",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "擦伤减免",
+      "en": "Scratch Damage Deduction",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "支援人形",
+      "en": "Support-class Doll",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "支援攻击",
+      "en": "Support Attack",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "断罪者",
+      "en": "Sinbreaker",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "方糖",
+      "en": "Zucchero / Sugar Cube",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "方糖咖啡馆",
+      "en": "Zucchero Café",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "无定星迹",
+      "en": "Wandering Star Trail",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "无效行动",
+      "en": "Ineffectual action",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "易伤",
+      "en": "Vulnerable",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "星图演绎",
+      "en": "Galaxy Interpretation",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "正电荷",
+      "en": "Cation",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "武装印记",
+      "en": "Arma Inscripta",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "泡泡水弹",
+      "en": "Bubble Bomb",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "泳池对决",
+      "en": "Pool Showdown",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "浊刻",
+      "en": "Hydro",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "浊刻之愈",
+      "en": "Hydro Mending",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "浊刻伤害",
+      "en": "Hydro damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "浊刻增益",
+      "en": "Hydro Buff",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "火控校准芯片",
+      "en": "Targeting Calibration Chip",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "烟寻异处",
+      "en": "Smoke Seeking",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "热情共鸣",
+      "en": "Passionate Resonance",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "热能传导",
+      "en": "Heat Transfer",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "焦痕",
+      "en": "Scorch Mark",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "燃烧伤害",
+      "en": "Burn damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "燃烧增益",
+      "en": "Burn Buff",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "燃烧类减益",
+      "en": "Burn debuff",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "物理伤害",
+      "en": "Physical damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "珀伽索",
+      "en": "Pegasus",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "电导",
+      "en": "Electric",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "电柱出生伤害",
+      "en": "Power Pole Spawn Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "电路过载",
+      "en": "Circuit Overload",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "破障回旋",
+      "en": "Ruinous Whirl",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "移动力",
+      "en": "Mobility",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "稳态崩溃",
+      "en": "Stability Break",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "稳态指数",
+      "en": "Stability Index",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "约束器",
+      "en": "Restrictor",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "绝不认输",
+      "en": "Never Give Up",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "美味盛宴",
+      "en": "Delicious Feast",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "翳影",
+      "en": "Shadow",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "艾莫号",
+      "en": "The Elmo",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "艾莫易购",
+      "en": "Elmo Mart",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "若造成击杀",
+      "en": "If a target is eliminated",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "负电荷",
+      "en": "Anion",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "货车前辈",
+      "en": "Truck-Senpai",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "超频拟练",
+      "en": "Overclock Simulation",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "跃键",
+      "en": "Expansion Key",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "轻盈回旋",
+      "en": "Graceful Pirouette",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "迅捷韬略",
+      "en": "Expeditious Gambit",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "返程休整",
+      "en": "Retreat for healing",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "远航巡录",
+      "en": "Voyage Logs",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "迭代回廊",
+      "en": "Liminal Iteration",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "逆熵伤害",
+      "en": "Reverse-Entropy Damage",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "酸蚀类减益",
+      "en": "Corrosion debuff",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "铁壁圣盾·冷凝",
+      "en": "Aegis Bulwark - FRZ",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "铭契之环",
+      "en": "Covenant Ring",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "防卫人形",
+      "en": "Bulwark-class Doll",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "防御类减益",
+      "en": "Defense debuff",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "隐罪者",
+      "en": "The Sinner",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "静谧暗河",
+      "en": "Serene Dark River",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "黎明战役",
+      "en": "Dawn of Battle",
+      "banned": "",
+      "type": "MECHANICS & TERMS",
+      "context": "Any"
+    },
+    {
+      "cn": "柯尼",
+      "en": "Kenny",
+      "banned": "Connie, Conny",
+      "type": "NPC",
+      "context": "Any"
+    },
+    {
+      "cn": "欧菲露妮",
+      "en": "Ophelune",
+      "banned": "Ofeline, Ofiloni, Orperune",
+      "type": "NPC",
+      "context": "Any"
+    },
+    {
+      "cn": "欧菲露妮小姐",
+      "en": "Miss Ophelune",
+      "banned": "Miss Ophelia",
+      "type": "NPC",
+      "context": "Any"
+    },
+    {
+      "cn": "沈美玲",
+      "en": "Mayling Shen",
+      "banned": "Shen Meiling",
+      "type": "NPC",
+      "context": "Any"
+    },
+    {
+      "cn": "404小队",
+      "en": "Squad 404 / H.I.D.E. 404",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "ATK",
+      "en": "ATK",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "B.R.I.E.F.",
+      "en": "B.R.I.E.F.",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "“格隆”歌舞团",
+      "en": "Grom Troupe",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "“火花”",
+      "en": "Sparkle Squad",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "光谱",
+      "en": "Spectrum",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "南极联邦",
+      "en": "Antarctic Union",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "吉拉尔集团",
+      "en": "Girard Group",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "国安局",
+      "en": "Statesec",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "塞卡科技",
+      "en": "Sycca Technologies",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "奥尔劳格财团",
+      "en": "Orlog Financial Conglomerate",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "季风乐队",
+      "en": "Monsoon Squad / Monsoon",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "暗商",
+      "en": "Underground Brokers",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "曼尼安保",
+      "en": "Mangi Security",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "格里芬",
+      "en": "Griffin & Kryuger",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "武装小组",
+      "en": "Heavy Weapons Team",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "潮流",
+      "en": "Fabric",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "火神重工",
+      "en": "Svarog Heavy Industries",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "熔断器",
+      "en": "Interrupter",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "瓦良格帮",
+      "en": "Varjagers",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "绿色天空",
+      "en": "Green Sky",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "缄默小队",
+      "en": "Silence Squad",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "翱翔者",
+      "en": "Falconer",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "艾翁共助会",
+      "en": "Aion Mutual Aid Society",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "赛诺菲与法本集团",
+      "en": "Cecht FABN",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "迪斯科",
+      "en": "Limonad",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "铁血",
+      "en": "Sangvis Ferri",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "长城列车轨道军",
+      "en": "Great Wall Railway Defense Forces",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "陶瓷",
+      "en": "Porcelain",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "霜降小队",
+      "en": "Frostfall Squad",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "非军事力量管理局",
+      "en": "Non-Military Forces Administration / NOMFA",
+      "banned": "",
+      "type": "ORGANIZATIONS",
+      "context": "Any"
+    },
+    {
+      "cn": "夏日投手",
+      "en": "Summer Pitcher",
+      "banned": "",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "睡醒的人鱼",
+      "en": "Stirring Mermaid",
+      "banned": "Awakened Mermaid",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "绀星绮愿",
+      "en": "Indigo Oath",
+      "banned": "Starry Wish",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "蔚蓝轨迹",
+      "en": "Cerulean Breaker",
+      "banned": "Azure Trajectory",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "赛场火花",
+      "en": "Sparks On The Circuit",
+      "banned": "Arena Spark",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "跃行脱兔",
+      "en": "Prancing Bunny",
+      "banned": "Leaping Hare",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "速度之星",
+      "en": "Speed Star",
+      "banned": "",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "闪耀心愿",
+      "en": "Sparkling Wish",
+      "banned": "Shining Wish",
+      "type": "Outfit",
+      "context": "Any"
+    },
+    {
+      "cn": "97式",
+      "en": "Type 97",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "AK-阿尔法",
+      "en": "AK-Alfa",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "AS Val",
+      "en": "AS Val",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "CZ75",
+      "en": "CZ75",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "G11",
+      "en": "G11",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "G28",
+      "en": "G28",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "G36K-KSK",
+      "en": "G36K-KSK",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "GSP-337",
+      "en": "GSP-337",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "HK416",
+      "en": "HK416",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "KSVK",
+      "en": "KSVK",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "M590",
+      "en": "M590",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "M82",
+      "en": "M82",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "MP7",
+      "en": "MP7",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "OTs-12",
+      "en": "OTs-12",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "P90",
+      "en": "P90",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "PzB39",
+      "en": "PzB39",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "QBZ-191",
+      "en": "QBZ-191",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "RO635",
+      "en": "RO635",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "SV-98",
+      "en": "SV-98",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "SVD",
+      "en": "SVD",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "TMP",
+      "en": "TMP",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "UMP40",
+      "en": "UMP40",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "UMP45",
+      "en": "UMP45",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "UMP9",
+      "en": "UMP9",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "三彩",
+      "en": "Sancai",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "丹尼尔·特罗杨诺斯",
+      "en": "Daniel Troyanos",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "丹德莱",
+      "en": "Dandelion",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "丽娜",
+      "en": "Rina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "丽贝卡",
+      "en": "Rebecca",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "乌尔丽德",
+      "en": "Ullrid",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "乌琪",
+      "en": "Ruchey",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "乔治",
+      "en": "George",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "亚历克",
+      "en": "Alec",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "亚历山大·索科洛夫",
+      "en": "Alexander Sokolov",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "亨利",
+      "en": "Henry",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "代理人",
+      "en": "Agent",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊万",
+      "en": "Ivan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊凡",
+      "en": "Ivan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊夫",
+      "en": "Yves",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊夫琳",
+      "en": "Evelyn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊斯雷",
+      "en": "Easley",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊格蕾塔",
+      "en": "Eagletta",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊涅萨",
+      "en": "Inesa",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊莎",
+      "en": "Isha",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊莎贝尔",
+      "en": "Isabel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊菲",
+      "en": "Iphi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊默尔",
+      "en": "Immore",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伊齐基尔",
+      "en": "Ezekiel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伍德",
+      "en": "Wood",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伯介姆",
+      "en": "Boojum",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伯纳尔",
+      "en": "Bernal",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "伯纳德",
+      "en": "Bernard",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "佛尔卡什",
+      "en": "Farkas",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "佩妮泽",
+      "en": "Poludnitsa",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "佩莉",
+      "en": "Peri",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "佩里缇亚",
+      "en": "Peritya",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克拉丽莎",
+      "en": "Clarissa",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克拉拉",
+      "en": "Klara",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克拉索",
+      "en": "Krassov",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克罗耶尔",
+      "en": "Kroyer",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克莱",
+      "en": "Clay",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克莱妲",
+      "en": "Koleda",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克莱尔",
+      "en": "Claire",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克里斯托弗·莱克",
+      "en": "Christopher Lake",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克里斯蒂安·伍德",
+      "en": "Christian Wood",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "克鲁格先生",
+      "en": "Mr. Kryuger",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "六分仪",
+      "en": "Sextans",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "兰妮",
+      "en": "Melanie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "兰汀",
+      "en": "Lentine",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "兰珀蒂娅",
+      "en": "Lambertia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "凯伦",
+      "en": "Karen",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "凯特",
+      "en": "Kate",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "凯西米尔",
+      "en": "Cashmere",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "切利娅",
+      "en": "Cheria",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "切尔茜",
+      "en": "Chelsea",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "列夫",
+      "en": "Lev",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "刘易斯",
+      "en": "Lewis",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "刘莳",
+      "en": "Liushih",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "加伊那",
+      "en": "Caina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "加莉娜",
+      "en": "Galina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡修斯",
+      "en": "Cassius",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡尔",
+      "en": "Karl",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡尔文",
+      "en": "Calvin",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡尔洛斯",
+      "en": "Carlos",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡特琳",
+      "en": "Katerin Miller / Katrin",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡莱尔",
+      "en": "Carlisle",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡萝",
+      "en": "Kuro",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡蜜拉",
+      "en": "Carmilla",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卡诺",
+      "en": "Kanu",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "卢卡",
+      "en": "Luka",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "厄舍上尉",
+      "en": "Captain Ussery",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "可露凯",
+      "en": "Klukai",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "吉塞拉",
+      "en": "Gisela",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "哈卜茜",
+      "en": "Harpsy",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "嘉利 / 卡丽",
+      "en": "Carrie / Kerrie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "埃尔赫",
+      "en": "Earhart",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "埃芙",
+      "en": "Alva",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "塔伦",
+      "en": "Tarhun",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "塔菲塔",
+      "en": "Taffeta",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "塞布丽娜",
+      "en": "Sabrina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "塞缪尔",
+      "en": "Samuel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "夏克里",
+      "en": "Sharkry",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "夏安",
+      "en": "Cheyanne",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "夏朵利兹",
+      "en": "Shadowless",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "夏洛特",
+      "en": "Charlotte",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "多萝西",
+      "en": "Dorothy",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "多萝西娅",
+      "en": "Dorothea",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奇塔",
+      "en": "Cheeta",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奇洛薇格",
+      "en": "Chiloveig",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奈乐",
+      "en": "Nele",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奎恩",
+      "en": "Quinn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奥古斯丁",
+      "en": "Augustine",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奥古斯塔斯",
+      "en": "Augustus",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "奥尔菲娅",
+      "en": "Orphia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "妮基塔",
+      "en": "Nikketa",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "妮娅",
+      "en": "Nia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "妮特",
+      "en": "Niter",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "威廉",
+      "en": "William",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "威廉明娜",
+      "en": "Wilhelmina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "威玛西娜",
+      "en": "Voymastina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "安吉莉",
+      "en": "Anjelie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "安朵丝",
+      "en": "Andoris",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "寇尔芙",
+      "en": "Colphne",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "小黑",
+      "en": "Nyxie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "尤里",
+      "en": "Yuri",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "尼克",
+      "en": "Nick",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "尼古拉",
+      "en": "Nikolai",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "尼可夫",
+      "en": "Nikolov",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "尼科尔",
+      "en": "Nicole",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "巴塞洛缪",
+      "en": "Bartholomew",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "巴希达",
+      "en": "Balthilde",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "巴特",
+      "en": "Bart",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "巴维尔",
+      "en": "Pavel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "巴赫玛洛",
+      "en": "Bahmaro",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "巴鲁克",
+      "en": "Baruch",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "布瑟尔",
+      "en": "Berserl",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "布莱恩·赫伯特",
+      "en": "Brian Herbert",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "希丽雅",
+      "en": "Cecilia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "希娅",
+      "en": "Theia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "希尔",
+      "en": "Sier",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "希芙",
+      "en": "Chiffon",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "帕维尔",
+      "en": "Pavel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "帕那刻亚",
+      "en": "Panakeia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "干扰者",
+      "en": "Intruder",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "幼熙",
+      "en": "Yoohee",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "库利奇",
+      "en": "Kulich",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "弗兰克",
+      "en": "Frank",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "弗拉基米尔",
+      "en": "Vladimir",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "弗朗西斯",
+      "en": "Frances",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "弗林 / 芙琳",
+      "en": "Flynn / Flinn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "弗雷德",
+      "en": "Fred",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "彼得",
+      "en": "Peter",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "德尔",
+      "en": "Dier",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "德米特里",
+      "en": "Dmitry",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "托卡",
+      "en": "Toka",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "托卡列夫",
+      "en": "Tokarev",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "托洛洛",
+      "en": "Tololo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "拉斯洛·纳道希",
+      "en": "Laszlo Nadausi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "提万",
+      "en": "Tiwan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "斯奈贝尔",
+      "en": "Sneibel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "斯捷奇金",
+      "en": "Stechkin",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "斯派克",
+      "en": "Spike",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "斯潘塞 / 斯宾塞",
+      "en": "Spencer",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "斯特凡·默纳克",
+      "en": "Stefan Monak / Murnach",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "斯隆",
+      "en": "Sloan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "施特劳斯",
+      "en": "Strauss",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "星寰",
+      "en": "Xinghuan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "普林斯勒",
+      "en": "Prinsler",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "朗尼",
+      "en": "Lonnie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "朝晖",
+      "en": "Zhaohui",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "朱丽叶",
+      "en": "Juliet",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "朱利叶斯",
+      "en": "Julius",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "李·恩菲尔德",
+      "en": "Lee-Enfield",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "杜莎妮",
+      "en": "Dushevnaya",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "杰克森·克拉克",
+      "en": "Jackson Clark",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "杰罗曼 / 杰罗姆",
+      "en": "Jeromain / Jerome",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "杰里",
+      "en": "Jerry",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "林恩",
+      "en": "Lenny / Lynn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "林榆",
+      "en": "Lilia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "柏德温",
+      "en": "Berdwin / Baldwin",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "查尔斯",
+      "en": "Charles",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "格伦·卢米",
+      "en": "Glenn Lumi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "格尔曼·约安奥维奇·沃科夫",
+      "en": "Germain Yoanovich Volkov",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "格琳 / 格琳娜",
+      "en": "Kalin / Kalina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "格里戈里·奥尔洛夫",
+      "en": "Grigory Orlov",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "桑朵莱希",
+      "en": "Centaureissi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "梅兰妮",
+      "en": "Melanie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "梅德",
+      "en": "Mede",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "梅德奎因",
+      "en": "Mede Quinn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "梅瑞狄斯",
+      "en": "Meredeith",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "梦想家",
+      "en": "Dreamer",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "樱花",
+      "en": "Sakura",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "欧文",
+      "en": "Owen",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "比尔森·威尔",
+      "en": "Milson Will",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "比悠卡",
+      "en": "Belka",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "水仙花",
+      "en": "Narcissus",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "汉娜·舒尔茨",
+      "en": "Hannah Schultz",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "汉斯",
+      "en": "Hans",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "沃尔芬",
+      "en": "Wolfin / Wolfiin",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "法图麦",
+      "en": "Fatima",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "法斯特",
+      "en": "Faust",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "波波沙",
+      "en": "Papasha",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "泰莉莎",
+      "en": "Terysha",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "洛克菲",
+      "en": "Roche",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "洛可西斯",
+      "en": "Lachesis",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "洛塔",
+      "en": "Lotta",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "洛林",
+      "en": "Larion / Lorraine",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "海伦",
+      "en": "Helen",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "海泽尔",
+      "en": "Haizel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "海琳",
+      "en": "Marina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "海莉",
+      "en": "Hailey",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "清道夫",
+      "en": "Sweeper",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "温斯特",
+      "en": "Wernst",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "特拉尔",
+      "en": "Tral",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "玛丽亚",
+      "en": "Maria",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "玛乔里 / 马杰里",
+      "en": "Marjorie / Margery",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "玛琳娜",
+      "en": "Marina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "玛绮朵",
+      "en": "Makiatto",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "珂狄赛普",
+      "en": "Cordyceps",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "理查",
+      "en": "Richard",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "琳德",
+      "en": "Lind",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "琼玖",
+      "en": "Qiongjiu",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "瓦利亚",
+      "en": "Valya",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "瓦西尔",
+      "en": "Vasily",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "白怀德",
+      "en": "Dr. White",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "白烨戈",
+      "en": "Beluga",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "白瓷",
+      "en": "Blanc",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "盖娅",
+      "en": "Gaia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "知穗",
+      "en": "Zhisui",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "破坏者",
+      "en": "Destroyer",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "福克斯",
+      "en": "Fox / Fuchs",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "秋桦",
+      "en": "Qiuhua",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "科勒林",
+      "en": "Koehler",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "科林",
+      "en": "Colin",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "科西莫主厨",
+      "en": "Chef Cosimo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "科谢尼娅",
+      "en": "Ksenia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "秦紫翼",
+      "en": "Qin ZiYi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "简",
+      "en": "Jane",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "米什缇",
+      "en": "Mechty",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "米卡",
+      "en": "Mika",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "米娅",
+      "en": "Mia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "米歇尔·默纳",
+      "en": "Michelle Monna",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "米蒂尔",
+      "en": "Mityl",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "索普",
+      "en": "Soppo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "索米",
+      "en": "Suomi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "索菲娅",
+      "en": "Sophia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "约翰",
+      "en": "John",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "约翰尼",
+      "en": "Johnny",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "纳甘",
+      "en": "Nagant",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "纳美西丝",
+      "en": "Nemesis",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "纳迪娅",
+      "en": "Nadiya",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "绛雨",
+      "en": "Jiangyu",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "绯",
+      "en": "Faye",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维克托",
+      "en": "Vector",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维勒斯·费恩",
+      "en": "Willers Finn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维尔德",
+      "en": "Welrod",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维尼亚夫斯基",
+      "en": "Wieniawski",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维拉",
+      "en": "Viola",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维普蕾",
+      "en": "Vepley",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "维特",
+      "en": "Vite",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗伯特",
+      "en": "Robert",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗兰",
+      "en": "Roland",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗吉尔 / 罗杰",
+      "en": "Roger",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗德里克·麦克法夸尔",
+      "en": "Roderick MacFarquhar",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗德里格",
+      "en": "Rodrigo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗斯",
+      "en": "Ross",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗莎琳",
+      "en": "Rosalind",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗蕾莱",
+      "en": "Loreley",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗贝拉",
+      "en": "Robella",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "罗贝蒂",
+      "en": "Roberti",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "美玲",
+      "en": "Mayling",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "翡图萨",
+      "en": "Phaetusa",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "肯尼",
+      "en": "Kenny",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "胡安·比维斯",
+      "en": "Juan Bevis / Bévès",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "舒尔德",
+      "en": "Shuld",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "芙洛伦",
+      "en": "Florence",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "芙铃",
+      "en": "Faelynn",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "芳音",
+      "en": "Fangyin / Madam Faina",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "苏维",
+      "en": "Suvi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "范妮",
+      "en": "Fanny",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "茉莉",
+      "en": "Molly",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "茧",
+      "en": "Cocoon",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莉丝",
+      "en": "Rise",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莉塔拉",
+      "en": "Littara",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莉迪亚",
+      "en": "Lydia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莫辛纳甘",
+      "en": "Mosin-Nagant",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱利",
+      "en": "Riley",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱妮",
+      "en": "Lainie",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱娅",
+      "en": "Leva",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱娜",
+      "en": "Lenna",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱布妮丝",
+      "en": "Leibnys",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱恩",
+      "en": "Ryan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱曼",
+      "en": "Lyman",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "莱菲娅",
+      "en": "Lefiya",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "菲奥多",
+      "en": "Fiodo / Fyodor",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "萝拉",
+      "en": "Laura",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "萨利",
+      "en": "Sally",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "萨德",
+      "en": "Sade",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "萨沙",
+      "en": "Sasha",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "萨珈",
+      "en": "Saga",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "葛洛丽娅",
+      "en": "Gloria",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "蓝闪蝶",
+      "en": "Blue Morpho",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "蕾切尔",
+      "en": "Rachel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "薇奥拉",
+      "en": "Viola",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "薇薇安",
+      "en": "Vivian",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "薮春",
+      "en": "Souchun",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "裘德",
+      "en": "Jude",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "西奥",
+      "en": "Theo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "西特罗",
+      "en": "Citro",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "詹姆斯",
+      "en": "James",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "诺亚",
+      "en": "Noah",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "诺厄",
+      "en": "Noah",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "诺埃尔",
+      "en": "Noel",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝丝蒂",
+      "en": "Basti",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝丽丝",
+      "en": "Bellis",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝尼托",
+      "en": "Benito",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝拉",
+      "en": "Bella",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝欧尼斯",
+      "en": "Belness",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝蒂",
+      "en": "Betty",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贝蒂斯",
+      "en": "Betis",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "贾科莫",
+      "en": "Giacomo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "赫丽安",
+      "en": "Helian",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "赫利",
+      "en": "Heli",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "赫瑞尤",
+      "en": "Crifium",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "赫瑞格",
+      "en": "Herrick",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "赫蒂",
+      "en": "Hedy",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "辛普森",
+      "en": "Simpson",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "迪克",
+      "en": "Dick",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "迪马",
+      "en": "Dima",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "迭戈",
+      "en": "Diego",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "金斯利",
+      "en": "Kingsley",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "针",
+      "en": "Igla",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "铂利尔",
+      "en": "Beryl",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "闪电",
+      "en": "Groza",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿丽丝",
+      "en": "Allessi",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿列克谢·奥尔洛夫",
+      "en": "Alexei Orlov",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿列霞",
+      "en": "Olesya",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿加莎",
+      "en": "Agatha",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿历克塞",
+      "en": "Alexey",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿历克斯",
+      "en": "Alex",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿巴贡",
+      "en": "Harpagon",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿斯缇亚",
+      "en": "Asteria",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿瑟",
+      "en": "Arthur",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿米达",
+      "en": "Amida",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿诺德",
+      "en": "Arnold",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "阿道夫",
+      "en": "Adolf",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "雅各布",
+      "en": "Jakub",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "雷纳德·威尔逊",
+      "en": "Leonard Wilson",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "霍尔通",
+      "en": "Holtom",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "露尼西亚",
+      "en": "Lunasia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "露朵",
+      "en": "Ludo",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "露西亚",
+      "en": "Lucia",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "青瓷",
+      "en": "Celadon",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "马斯克",
+      "en": "Musk",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "马歇尔",
+      "en": "Marshall",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "马蒂尔",
+      "en": "Marty",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "马里恩",
+      "en": "Marian",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "麦克",
+      "en": "Michael",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "黑山雄鹰",
+      "en": "Blackmountain",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "黑眼",
+      "en": "Darture",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "黛拉",
+      "en": "Della",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "黛烟",
+      "en": "Daiyan",
+      "banned": "",
+      "type": "PLAYABLE CHARACTERS",
+      "context": "Any"
+    },
+    {
+      "cn": "乐园计划",
+      "en": "Project Eden",
+      "banned": "Theme Park Plan",
+      "type": "Projects",
+      "context": "Any"
+    },
+    {
+      "cn": "冕洞计划",
+      "en": "Project Coronal Hole",
+      "banned": "Crown Cave Project",
+      "type": "Projects",
+      "context": "Any"
+    },
+    {
+      "cn": "恒星风计划",
+      "en": "Project Nebula Wind",
+      "banned": "Stellar Wind Project",
+      "type": "Projects",
+      "context": "Any"
+    },
+    {
+      "cn": "摇篮曲计划",
+      "en": "Lullaby Project",
+      "banned": "",
+      "type": "Projects",
+      "context": "Any"
+    },
+    {
+      "cn": "泊维西计划",
+      "en": "Powehi Plan",
+      "banned": "Povixi Project",
+      "type": "Projects",
+      "context": "Any"
+    },
+    {
+      "cn": "霍洛戈计划",
+      "en": "Horoscope Program",
+      "banned": "Project Hollogo",
+      "type": "Projects",
+      "context": "Any"
+    },
+    {
+      "cn": "艾莫",
+      "en": "Elmo",
+      "banned": "Emmo, Aimo",
+      "type": "Vehicles & Base",
+      "context": "Any"
+    }
+  ]
+}

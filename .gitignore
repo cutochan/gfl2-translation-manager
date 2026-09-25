@@ -1,0 +1,47 @@
+# ==================== SENSITIVE FILES ====================
+upload_config.json
+gdrive_service_account.json
+
+# ==================== LARGE FILES ====================
+*.bytes
+output/
+backups/
+suspicious/
+susipicious/
+"merge glossary"/
+
+# ==================== TRANSLATIONS (Data files) ====================
+translations/base.json
+translations/update-*.json
+translations/*_translated.json
+cn_source.json
+cn.json
+
+# ==================== TEMP/PROGRESS FILES ====================
+translation_progress.json
+glossary_violations.json
+corrections_log.json
+suspicious_translations.json
+glossary_export.json
+translations_merged.json
+
+# ==================== PYTHON ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+
+# ==================== IDE ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ==================== LOGS ====================
+*.log
